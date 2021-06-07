@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDZGINPTBQZQZIOKZYQ2YOWUTNKTKKYLP4BQFUC3HRIWUSHAKLRFXUOA",
-"GAIT5PGZHBDXIUJ2J4WCRMVP4JO7B6JMPVZ7S3AKHHQ3A2GVOATE2OEI"
+"GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
+"GDWK2MNPMVILHG5YT3NY3UJCRXKDOCMO746OI2QREBOUJZPBOCYEMU52"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XLMPAY"
-ORG_TWITTER="@XLMPAY"
-ORG_LOGO="https://i.ibb.co/1TCLQHG/Stellar-Symbol.png"
-ORG_OFFICIAL_EMAIL="XLMPAY@tutanota.com"
+ORG_NAME="XLMATA"
+ORG_TWITTER="@XLMATA"
+ORG_LOGO="https://i.ibb.co/8gLJhmb/10188.png"
+ORG_OFFICIAL_EMAIL="XLMATA@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMPAY"
-issuer="GAIT5PGZHBDXIUJ2J4WCRMVP4JO7B6JMPVZ7S3AKHHQ3A2GVOATE2OEI"
+code="XLMATA"
+issuer="GDWK2MNPMVILHG5YT3NY3UJCRXKDOCMO746OI2QREBOUJZPBOCYEMU52"
 anchor_asset="false"
-name="Stellar Pay"
-desc="Stellar Pay [XLMPAY],  Stellar pay is an advanced payment system based on XLM, which will replace XLM in the future. "
-conditions="There will only ever be 5.000.000 XLMPAY tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/1TCLQHG/Stellar-Symbol.png"
+name="Stellar Automata Network"
+desc="Stellar Automata Network [XLMATA],  Automata Network is a decentralized service protocol that provides middleware-like traceless privacy services for dApps on Ethereum and Polkadot to achieve privacy, high assurance and frictionless computation."
+conditions="There will only ever be 5.000.000 XLMATA tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/8gLJhmb/10188.png"
 fixed_number=5000000
 max_number=5000000
 is_unlimited=false
-#XLMPAY was issued using the open and inclusive Stellar blockchain network.
+#XLMATA was issued using the open and inclusive Stellar blockchain network.

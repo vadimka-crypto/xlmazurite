@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GCUWPJTDPYSHI5HRQUCD43X7RT62EEXSK7CVUKYWZ5LZVRKR7GELSDHK"
+"GC5V3FXQN5XYJCMBRNYBNYQ5L2XP7W6DHM3ZLPFHXDELCQJEC2JJVAPD"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
 ORG_NAME="XLMa"
 ORG_TWITTER="@XLMAa"
-ORG_LOGO="https://i.ibb.co/SrW3Cvn/AQ0726.jpg"
+ORG_LOGO="https://i.ibb.co/WtrsFfL/619eohk0x-WL-AC-SL1203.jpg"
 ORG_OFFICIAL_EMAIL="XLMa@tutanota.com"
 
 
 [[CURRENCIES]]
 code="XLMa"
-issuer="GCUWPJTDPYSHI5HRQUCD43X7RT62EEXSK7CVUKYWZ5LZVRKR7GELSDHK"
+issuer="GC5V3FXQN5XYJCMBRNYBNYQ5L2XP7W6DHM3ZLPFHXDELCQJEC2JJVAPD"
 anchor_asset="false"
-name="Stellar Auquamarin"
-desc="Stellar Auquamarin [XLMa],  "
-conditions="There will only ever be 4.000.000 XLMa tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/SrW3Cvn/AQ0726.jpg"
-fixed_number=4000000
-max_number=4000000
+name="Stellar Azurite"
+desc="Stellar Azurite [XLMa],Azurite is a soft, deep-blue copper mineral produced by weathering of copper ore deposits. During the early 19th century, it was also known as chessylite, after the type locality at Chessy-les-Mines near Lyon, France. "
+conditions="There will only ever be 5.000.000 XLMa tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/WtrsFfL/619eohk0x-WL-AC-SL1203.jpg"
+fixed_number=5000000
+max_number=5000000
 is_unlimited=false
 #XLMa was issued using the open and inclusive Stellar blockchain network.
